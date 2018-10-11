@@ -3,7 +3,7 @@ Microsoft COCO Caption Evaluation
 ## python 3.x non-official support with minor changes
 This is a python 3.x version of the official COCO evaluation scripts with minor changes(change `range`, `map`, `print` and `pipe`).
 
-## TODO: Add `SCIPY` support.
+## TODO: Add `SPICE` support.
 
 Evaluation codes for MS COCO caption generation.
 
