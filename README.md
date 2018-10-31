@@ -2,9 +2,7 @@ Microsoft COCO Caption Evaluation
 ===================
 ## python 3.x non-official support with minor changes
 This is a python 3.x version of the official COCO evaluation scripts with minor changes(change `range`, `map`, `print` and `pipe`).
-
-## TODO: Add `SPICE` support.
-
+## I found another better python3-based scripts([this one](https://github.com/salaniz/pycocoevalcap)), this repo will not be updated.
 Evaluation codes for MS COCO caption generation.
 
 ## Requirements ##
